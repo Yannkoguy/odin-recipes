@@ -1,1 +1,2 @@
 # odin-recipes
+Le projet en cours est 'The Odin Project'. Un projet ambitieux qui me permettra d'acquérir les compétences de développeur web. L'exercice en cours est le premier recipes qui me permet de réviser toutes les connaissances apprises depuis le premier cours.
